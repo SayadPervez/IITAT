@@ -6,7 +6,7 @@
 
 #### Run the program using the command
 ```bash
-./python3 main.py
+python3 ./main.py
 ```
 
 #### Sample Output
